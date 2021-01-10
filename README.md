@@ -1,4 +1,4 @@
-This program is inspired by Adrian Rosebrock tutorials and aims to become a reliable source of automated detection of CT and RX scans to find infections caused by COVID19. 
+This program is inspired by Adrian Rosebrock tutorials and aims to become a reliable source of automated detection of XRay images to find infections caused by COVID19. 
 
 We can train a model and then test the model in load_own_model.py @ load_model.py file to test if an image is positive or negative.
 
